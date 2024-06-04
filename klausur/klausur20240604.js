@@ -7,6 +7,10 @@ console.log("Klausur 20240604")
 console.log("Aufgabe 1")
 // 1a) Berechnen Sie das Volumen eines Würfels mit Hilfe der Grundrechenoperatoren (+ , - , * , /) , bei dem die Kantenlänge mit der Varablen a festgelegt wird.
 
+let a = 2
+
+let Kantenlänge = 4
+
 
 
 // 1b) - Nur Klausurschreiber
@@ -25,7 +29,7 @@ console.log("Aufgabe 2")
 // 2a)
 // Testschreiber deklarieren pi und initialisieren pi mit dem Wert 3.14.
 
-
+let pi = 3.14
 
 // Klausurschreiber deklarieren pi und initialisieren pi mit dem Wert aus der bekannten Bibliothek namens Math. Geben Sie Math.PI an, um den Wert von Pi in einer Variablen speichern zu können.
 
@@ -109,7 +113,9 @@ console.log("Aufgabe 4")
 // 4a)
 // Ein Kunde nimmst bei einer Bank einen Kredit über 5000 € auf. Die Laufzeit beträgt 6 Monate bei einem Zinssatz von 10%. Berechne die Zinszahlungen, die in diesem Zeitraum anfallen. Arbeiten Sie mit Variablen. Antwortsatz!
 
-
+let Kredit = 5000
+let Laufzeit = 6
+let Zinssatz = 10%
 
 
 
